@@ -1,0 +1,75 @@
+{
+	"Video Games": [
+		{
+			"title": "Armada",
+			"fictional": true,
+			"chapter": 1
+		},
+	]",
+	"Movies": [
+		{
+			"title": "TRON",
+			"chapter": 1
+		},
+		{
+			"title": "WarGames",
+			"chapter": 1
+		},
+		{
+			"title": "The Last Starfighter",
+			"chapter": 1
+		},
+		{
+			"title": "Lord of the Rings",
+			"chapter": "1",
+			"reference": "Sting (sword)"
+		},
+		{
+			"title": "movie with the Thor",
+			"chapter": 1,
+			"reference": "Mjolnir (hammer of Thor)"
+		},
+		{
+			"title": "Excalibur",
+			"chapter": 1,
+			"reference": "Excalibur (the sword)"
+		},
+		{
+			"title": "Say Anything",
+			"chapter": 1
+		}
+	]
+	"Books": [
+		{
+			"title": "Don Quixote",
+			"chapter": 1
+		}
+	],
+	"Music": [
+		{
+			"artist": "Peter Gabriel",
+			"chapter": 1
+		},
+		{
+			"artist": "ZZ Top",
+			"chapter": 1
+		},
+		{
+			"artist": "AC/DC",
+			"chapter": 1
+		},
+		{
+			"artist": "Van Halen",
+			"chapter": 1
+		},
+		{
+			"artist": "Queen",
+			"chapter": 1
+		},
+		{
+			"artist": "Power Station",
+			"song": "Get it On (Bang A Gong)",
+			"chapter": 1
+		}
+	]
+}
