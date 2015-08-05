@@ -15,19 +15,23 @@
 	"Movies": [
 		{
 			"title": "TRON",
-			"chapter": 1
+			"chapter": 1,
+			"link": "http://www.amazon.com/gp/product/B004V71CYQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004V71CYQ&linkCode=as2&tag=adahar04-20&linkId=75PCR2JYGX6LGULS"
 		},
 		{
 			"title": "WarGames",
-			"chapter": 1
+			"chapter": 1,
+			"link": "http://www.amazon.com/gp/product/B0011EQBOS/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0011EQBOS&linkCode=as2&tag=adahar04-20&linkId=OTEW4H43IGAVWRIA"
 		},
 		{
 			"title": "The Last Starfighter",
-			"chapter": 1
+			"chapter": 1,
+			"link": "http://www.amazon.com/gp/product/B003PIS5XI/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003PIS5XI&linkCode=as2&tag=adahar04-20&linkId=HGRXXCM2EL523BKG"
 		},
 		{
 			"title": "Lord of the Rings",
-			"chapter": "1"
+			"chapter": "1",
+			"link": "http://www.amazon.com/gp/product/B00552986K/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00552986K&linkCode=as2&tag=adahar04-20&linkId=DMQMDXNCS7BWNM7S"
 		},
 		{
 			"title": "movie with the Thor",
