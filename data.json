@@ -5,6 +5,12 @@
 			"fictional": true,
 			"chapter": 1
 		},
+		{
+			"title": "Spacewar!",
+			"chapter": 2,
+			"chronology": "1962",
+			"chronologyNotes": "Spacewar!- First videogame (after OXO and Tennis for Two)"
+		}
 	]",
 	"Movies": [
 		{
@@ -37,6 +43,10 @@
 		{
 			"title": "Say Anything",
 			"chapter": 1
+		},
+		{
+			"title": "Star Wars",
+			"chapter": 2
 		}
 	]
 	"Books": [
@@ -70,6 +80,41 @@
 			"artist": "Power Station",
 			"song": "Get it On (Bang A Gong)",
 			"chapter": 1
+		}
+	],
+	"Role Playing Games": [
+		{
+			"title": "Advanced Dungeons & Dragons",
+			"chapter": 2
+		},
+		{
+			"title": "GURPs",
+			"chapter": 2
+		},
+		{
+			"title": "Champions",
+			"chapter": 2
+		},
+		{
+			"title": "Star Frontiers",
+			"chapter": 2
+		},
+		{
+			"title": "Spacemaster",
+			"chapter": 2
+		},
+	],
+	"Literature": [
+		{
+			"title": "Phaeton and Helios?",
+			"chapter": 2
+		}
+	],
+	"Multiple": [
+		{
+			"title": "Superman",
+			"chapter": 2,
+			"reference": "Clark Kent learning about his origins"
 		}
 	]
 }
