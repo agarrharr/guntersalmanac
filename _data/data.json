@@ -11,7 +11,7 @@
 			"chronology": "1962",
 			"chronologyNotes": "Spacewar!- First videogame (after OXO and Tennis for Two)"
 		}
-	]",
+	],
 	"Movies": [
 		{
 			"title": "TRON",
@@ -27,18 +27,15 @@
 		},
 		{
 			"title": "Lord of the Rings",
-			"chapter": "1",
-			"reference": "Sting (sword)"
+			"chapter": "1"
 		},
 		{
 			"title": "movie with the Thor",
-			"chapter": 1,
-			"reference": "Mjolnir (hammer of Thor)"
+			"chapter": 1
 		},
 		{
 			"title": "Excalibur",
-			"chapter": 1,
-			"reference": "Excalibur (the sword)"
+			"chapter": 1
 		},
 		{
 			"title": "Say Anything",
@@ -48,7 +45,7 @@
 			"title": "Star Wars",
 			"chapter": 2
 		}
-	]
+	],
 	"Books": [
 		{
 			"title": "Don Quixote",
@@ -113,8 +110,7 @@
 	"Multiple": [
 		{
 			"title": "Superman",
-			"chapter": 2,
-			"reference": "Clark Kent learning about his origins"
+			"chapter": 2
 		}
 	]
 }
