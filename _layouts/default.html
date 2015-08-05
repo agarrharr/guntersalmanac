@@ -29,18 +29,11 @@
 			<div class="row row-offcanvas row-offcanvas-left">
 				<div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
 					<ul class="nav">
-						<li class="active">
-							<a href="#">Video Games</a>
-						</li>
-						<li>
-							<a href="#">Movies</a>
-						</li>
-						<li>
-							<a href="#">Books</a>
-						</li>
-						<li>
-							<a href="#">Music</a>
-						</li>
+						{% for category in site.data.data %}
+							<li>
+								<a href="#{{ category[0] | slugify }}">{{category[0]}}</a>
+							</li>
+						{% endfor %}
 					</ul>
 				</div>
 				<div class="col-xs-12 col-sm-9">

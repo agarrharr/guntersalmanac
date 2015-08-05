@@ -2,7 +2,13 @@
 layout: default
 ---
 
-<h2>Movies</h2>
-<ul>
-	<li><a href="#">TRON</a></li>
-</ul>
+{% for category in site.data.data %}
+	<h2 id="{{ category[0] | slugify }}">{{category[0]}}</h2>
+	<ul class="list">
+	{% for item in category[1] %}
+		<li>
+			<a href="#">{{item.title}}</a>
+		</li>
+	{% endfor %}
+	</ul>
+{% endfor %}

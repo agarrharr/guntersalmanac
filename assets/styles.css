@@ -13,6 +13,17 @@ h2 {
 	margin-bottom: 1em;
 	color: #2faa9d;
 }
+.list {
+	padding-left: 0px;
+	text-align: center;
+	list-style: none;
+}
+.list li {
+	margin-bottom: 1em;
+}
+.list a {
+	text-decoration: underline;
+}
 
 
 #sidebar {
