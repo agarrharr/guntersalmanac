@@ -1,0 +1,21 @@
+title: Armada References
+description: A list of pop culture references in Armada by Ernest Cline
+markdown: kramdown
+highlighter: pygments
+permalink: /:title/
+paginate: 5
+siteurl: http://
+baseurl:
+disqus_shortname:
+google_analytics_code:
+google_analytics_url:
+exclude: [bower.json, README.md]
+defaults:
+  - scope:
+      type: posts
+    values:
+      layout: post
+  - scope:
+      type: pages
+    values:
+      layout: default
