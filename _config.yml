@@ -6,9 +6,7 @@ permalink: /:title/
 paginate: 5
 siteurl: http://
 baseurl:
-disqus_shortname:
-google_analytics_code:
-google_analytics_url:
+google_analytics_code: UA-31980509-11
 exclude: [bower.json, README.md]
 defaults:
   - scope:
