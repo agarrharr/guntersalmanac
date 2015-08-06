@@ -7,6 +7,9 @@ layout: default
 	<ul class="list">
 	{% for item in category[1] %}
 		<li>
+			{% if item.image %}
+				<img src="{{item.image}}"/>
+			{% endif %}
 			<a href="{{item.link}}">{{item.title}}</a>
 		</li>
 	{% endfor %}

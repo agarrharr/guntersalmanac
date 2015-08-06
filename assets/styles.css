@@ -8,14 +8,12 @@ a {
 }
 
 h2 {
-	text-align: center;
 	margin-top: 1em;
 	margin-bottom: 1em;
 	color: #2faa9d;
 }
 .list {
 	padding-left: 0px;
-	text-align: center;
 	list-style: none;
 }
 .list li {
@@ -23,6 +21,9 @@ h2 {
 }
 .list a {
 	text-decoration: underline;
+}
+.list img {
+	max-height: 100px;
 }
 
 
