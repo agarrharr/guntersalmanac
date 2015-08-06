@@ -4,14 +4,18 @@ layout: default
 
 {% for category in site.data.data %}
 	<h2 id="{{ category[0] | slugify }}">{{category[0]}}</h2>
-	<ul class="list">
+	<table class="list">
 	{% for item in category[1] %}
-		<li>
+		<tr>
+			<td>
 			{% if item.image %}
 				<img src="{{item.image}}"/>
 			{% endif %}
-			<a href="{{item.link}}">{{item.title}}</a>
-		</li>
+			</td>
+			<td>
+				<a href="{{item.link}}">{{item.title}}</a>
+			</td>
+		</tr>
 	{% endfor %}
-	</ul>
+	</table>
 {% endfor %}

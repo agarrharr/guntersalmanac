@@ -12,15 +12,12 @@ h2 {
 	margin-bottom: 1em;
 	color: #2faa9d;
 }
-.list {
-	padding-left: 0px;
-	list-style: none;
-}
-.list li {
-	margin-bottom: 1em;
-}
+
 .list a {
 	text-decoration: underline;
+}
+.list td {
+	padding: 10px;
 }
 .list img {
 	max-height: 100px;
