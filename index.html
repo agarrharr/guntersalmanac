@@ -13,7 +13,13 @@ layout: default
 			{% endif %}
 			</td>
 			<td>
-				<a href="{{item.link}}">{{item.title}}</a>
+				{% if item.link %}
+					<a href="{{item.link}}">
+				{% endif %}
+				{{item.title}}
+				{% if item.link %}
+				</a>
+				{% endif %}
 			</td>
 		</tr>
 	{% endfor %}
