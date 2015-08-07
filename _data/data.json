@@ -1,15 +1,8 @@
 {
 	"Video Games": [
 		{
-			"title": "Armada",
-			"fictional": true,
-			"chapter": 1
-		},
-		{
 			"title": "Spacewar!",
-			"chapter": 2,
-			"chronology": "1962",
-			"chronologyNotes": "Spacewar!- First videogame (after OXO and Tennis for Two)"
+			"chapter": 2
 		}
 	],
 	"Movies": [
