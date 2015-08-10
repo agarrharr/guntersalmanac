@@ -252,6 +252,31 @@
 			"link": "http://www.arcade-museum.com/game_detail.php?game_id=12915",
 			"image": ""
 		},
+		{
+			"title": "Battlefield",
+			"chapter": 3,
+			"link": "https://en.wikipedia.org/wiki/Battlefield_(series)"
+		},
+		{
+			"title": "Call of Duty",
+			"chapter": 3
+		},
+		{
+			"title": "Modern Warfare",
+			"chapter": 3
+		},
+		{
+			"title": "Star Citizen",
+			"chapter": 3
+		},
+		{
+			"title": "Elite: Dangerous",
+			"chapter": 3
+		},
+		{
+			"title": "EVE Online",
+			"chapter": 3
+		}
 	],
 	"Movies": [
 		{
@@ -553,6 +578,18 @@
 			"chapter": 2,
 			"link": "https://en.wikipedia.org/wiki/Snoopy_vs._the_Red_Baron_(song)",
 			"image": ""
+		},
+		{
+			"title": "Rush- Moving Pictures- Vital Signs",
+			"chapter": 2,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Rush- Moving Pictures",
+			"chapter": 2,
+			"link": "",
+			"image": ""
 		}
 	],
 	"Role Playing Games": [
@@ -599,12 +636,69 @@
 			"image": ""
 		}
 	],
+	"People": [
+		{
+			"title": "H. R. Giger",
+			"chapter": 3,
+			"link": "https://en.wikipedia.org/wiki/H._R._Giger"
+		},
+		{
+			"title": "Chris Roberts",
+			"chapter": 3,
+			"link": "https://en.wikipedia.org/wiki/Chris_Roberts_(game_developer)"
+		},
+		{
+			"title": "Richard Garriott",
+			"chapter": 3,
+			"link": "https://en.wikipedia.org/wiki/Richard_Garriott"
+		},
+		{
+			"title": "Hidetaka Miyazaki",
+			"chapter": 3,
+			"link": "https://en.wikipedia.org/wiki/Hidetaka_Miyazaki"
+		},
+		{
+			"title": "Gabe Newell",
+			"chapter": 3,
+			"link": "https://en.wikipedia.org/wiki/Gabe_Newell"
+		},
+		{
+			"title": "Shigeru Miyamoto",
+			"chapter": 3,
+			"link": "https://en.wikipedia.org/wiki/Shigeru_Miyamoto"
+		},
+		{
+			"title": "James Cameron",
+			"chapter": 3,
+			"link": "https://en.wikipedia.org/wiki/James_Cameron"
+		},
+		{
+			"title": "Peter Jackson",
+			"chapter": 3,
+			"link": "https://en.wikipedia.org/wiki/Peter_Jackson"
+		},
+	],
 	"Multiple Categories": [
 		{
 			"title": "Superman",
 			"chapter": 2,
 			"link": "https://en.wikipedia.org/wiki/Superman",
 			"image": "https://upload.wikimedia.org/wikipedia/en/e/eb/SupermanRoss.png"
+		}
+	],
+	"Other": [
+		{
+			"title": "Funyun",
+			"chapter": 3
+		},
+		{
+			"title": "Weta Workshop",
+			"chapter": 3,
+			"link": "https://en.wikipedia.org/wiki/Weta_Workshop"
+		},
+		{
+			"title": "Pizza Hut",
+			"chapter": 3
 		}
 	]
 }
