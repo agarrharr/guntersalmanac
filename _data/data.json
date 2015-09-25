@@ -276,7 +276,59 @@
 		{
 			"title": "EVE Online",
 			"chapter": 3
-		}
+		},
+		{
+			"title": "World of Warcraft",
+			"chapter": 4
+		},
+		{
+			"title": "Star Fox",
+			"chapter": 5
+		},
+		{
+			"title": "Cosmic Ark",
+			"chapter": 5
+		},
+		{
+			"title": "Missile Command",
+			"chapter": 5
+		},
+		{
+			"title": "Dreadnaught",
+			"chapter": 6,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Destroyer",
+			"chapter": 6,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Laser Blast",
+			"chapter": 6,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Kaboom!",
+			"chapter": 6,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Rebel Alliance",
+			"chapter": 6,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "BattleTech",
+			"chapter": 6,
+			"link": "",
+			"image": ""
+		},
 	],
 	"Movies": [
 		{
@@ -400,7 +452,7 @@
 			"image": ""
 		},
 		{
-			"title": "Flight of the Navigators",
+			"title": "Flight of the Navigator",
 			"chapter": 2,
 			"link": "",
 			"image": ""
@@ -482,7 +534,79 @@
 			"chapter": 2,
 			"link": "",
 			"image": ""
-		}
+		},
+		{
+			"title": "The Terminator",
+			"chapter": 4,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Alien",
+			"chapter": 4,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "The Little Mermaid",
+			"chapter": 5,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Red Dawn",
+			"chapter": 6,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Vanilla Sky",
+			"chapter": 7,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "The Matrix",
+			"chapter": 7,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "The Twilight Zone",
+			"chapter": 7,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Avatar",
+			"chapter": 7,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Edge of Tomorrow",
+			"chapter": 7,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Invasion of the Body Snatchers",
+			"chapter": 7,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Mad Max",
+			"chapter": 8,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "James Bond",
+			"chapter": 8,
+			"link": "",
+			"image": ""
+		},
 	],
 	"Television Shows": [
 		{
@@ -494,6 +618,48 @@
 		{
 			"title": "The X-Files	",
 			"chapter": 2,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Doctor Who",
+			"chapter": 4,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Robotech",
+			"chapter": 5,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Pee-wee's Playhouse",
+			"chapter": 6,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Battlestar Galactica",
+			"chapter": 6,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Firefly",
+			"chapter": 6,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "The Muppet Show",
+			"chapter": 7,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Mighty Morphin Power Rangers",
+			"chapter": 7,
 			"link": "",
 			"image": ""
 		},
@@ -523,52 +689,64 @@
 			"link": "",
 			"image": ""
 		},
+		{
+			"title": "Of Mice and Men",
+			"chapter": 7,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Dune",
+			"chapter": 8,
+			"link": "",
+			"image": ""
+		},
 	],
 	"Music": [
 		{
 			"title": "Peter Gabriel",
 			"chapter": 1,
-			"link": "https://en.wikipedia.org/wiki/Peter_Gabriel",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Peter_Gabriel_Allan_Warren.jpg"
+			"link": "",
+			"image": ""
 		},
 		{
 			"title": "ZZ Top",
 			"chapter": 1,
-			"link": "https://en.wikipedia.org/wiki/ZZ_Top",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ZZ_Top_Live.jpg/500px-ZZ_Top_Live.jpg"
+			"link": "",
+			"image": ""
 		},
 		{
 			"title": "AC/DC",
 			"chapter": 1,
-			"link": "https://en.wikipedia.org/wiki/AC/DC",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Acdc_logo_band.svg/440px-Acdc_logo_band.svg.png"
+			"link": "",
+			"image": ""
 		},
 		{
 			"title": "Van Halen",
 			"chapter": 1,
-			"link": "https://en.wikipedia.org/wiki/Van_Halen",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/VAN_HALEN_2008.jpg/500px-VAN_HALEN_2008.jpg"
+			"link": "",
+			"image": ""
 		},
 		{
-			"title": "Queen",
-			"chapter": 1,
-			"link": "https://en.wikipedia.org/wiki/Queen_(band)",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Queen_-_montagem.png/500px-Queen_-_montagem.png"
+			"title": "Queen- Another One Bites the Dust",
+			"chapter": 6,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Queen- We Will Rock You",
+			"chapter": 6,
+			"link": "",
+			"image": ""
 		},
 		{
 			"title": "The Power Station- Get it On (Bang A Gong)",
 			"chapter": 1,
 			"link": "https://www.youtube.com/watch?v=ieOwL1UB1V4",
-			"image": "https://upload.wikimedia.org/wikipedia/en/7/71/Powerstation_albumcover.jpg"
-		},
-		{
-			"title": "Twisted Sister",
-			"chapter": 2,
-			"link": "",
 			"image": ""
 		},
 		{
-			"title": "Queen",
+			"title": "Twisted Sister",
 			"chapter": 2,
 			"link": "",
 			"image": ""
@@ -580,17 +758,15 @@
 			"image": ""
 		},
 		{
-			"title": "Rush- Moving Pictures- Vital Signs",
+			"title": "Rush- Vital Signs",
 			"chapter": 2,
 			"link": "",
 			"image": ""
 		},
 		{
-			"title": "Rush- Moving Pictures",
-			"chapter": 2,
-			"link": "",
-			"image": ""
-		}
+			"title": "Kidz Bop",
+			"chapter": 6
+		},
 	],
 	"Role Playing Games": [
 		{
@@ -626,7 +802,13 @@
 			"chapter": 2,
 			"link": "",
 			"image": ""
-		}
+		},
+		{
+			"title": "Oedipus",
+			"chapter": 4,
+			"link": "https://en.wikipedia.org/wiki/Oedipus",
+			"image": ""
+		},
 	],
 	"Consoles": [
 		{
@@ -677,14 +859,112 @@
 			"chapter": 3,
 			"link": "https://en.wikipedia.org/wiki/Peter_Jackson"
 		},
+		{
+			"title": "J. J. Abrams",
+			"chapter": 7,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "John Williams",
+			"chapter": 10,
+			"link": "",
+			"image": ""
+		},
 	],
-	"Multiple Categories": [
+	"Comics": [
 		{
 			"title": "Superman",
 			"chapter": 2,
 			"link": "https://en.wikipedia.org/wiki/Superman",
 			"image": "https://upload.wikimedia.org/wikipedia/en/e/eb/SupermanRoss.png"
-		}
+		},
+		{
+			"title": "Wonder Woman",
+			"chapter": 5,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Nightcrawler",
+			"chapter": 5,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Deadpool",
+			"chapter": 5,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Electra",
+			"chapter": 5,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Shatterstar",
+			"chapter": 5,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Green Arrow",
+			"chapter": 5,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Hawkeye",
+			"chapter": 5,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Blade",
+			"chapter": 5,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Katana",
+			"chapter": 5,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Wolverine",
+			"chapter": 5,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Aquaman",
+			"chapter": 5,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Tank Girl",
+			"chapter": 9,
+			"link": "",
+			"image": ""
+		},
+	],
+	"Companies": [
+		{
+			"title": "Viacom",
+			"chapter": 7,
+			"link": "",
+			"image": ""
+		},
+		{
+			"title": "Disney",
+			"chapter": 7,
+			"link": "",
+			"image": ""
+		},
 	],
 	"Other": [
 		{
