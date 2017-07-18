@@ -1,7 +1,7 @@
 title: Armada References
 description: A list of pop culture references in Armada by Ernest Cline
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:title/
 paginate: 5
 siteurl: http://
