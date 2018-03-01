@@ -1,21 +1,21 @@
-title: Adam Harris
-description: Web Developer
+title:
+description:
 markdown: kramdown
 highlighter: pygments
 permalink: /:categories/:title/
 category_dir: category
 paginate: 5
-siteurl: http://www.adamwadeharris.com
+siteurl:
 baseurl:
-disqus_shortname: adamwadeharris
-google_analytics_code: UA-31980509-3
-google_analytics_url: adamwadeharris.com
+disqus_shortname:
+google_analytics_code:
+google_analytics_url:
 exclude: [bower.json, README.md]
 lcb: "{"
 rcb: "}"
 prose:
   media: "assets/uploads"
-  siteurl: "http://www.adamwadeharris.com"
+  siteurl:
 defaults:
   - scope:
       type: posts
